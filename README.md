@@ -1,0 +1,2 @@
+# Latihan-Git
+sebuah repo
